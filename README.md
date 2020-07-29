@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h4><em>⚡ Senior System Engineer ⚡</em></h4>
 
 [![Linkedin: Pablo G. Cisneros](https://img.shields.io/badge/Pablo_Cisneros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablocisneros/)](https://www.linkedin.com/in/pablocisneros/)
-[![Twitter: Pablo G. Cisneros](https://img.shields.io/twitter/follow/Pablo_Cisneros?style=social)](https://twitter.com/zioguillo)
+[![Twitter: Pablo G. Cisneros](https://img.shields.io/twitter/follow/zioguillo?style=social)](https://twitter.com/zioguillo)
 [![Platzi Pablo G. Cisneros](https://img.shields.io/badge/Platzi-Pablo_Cisneros-lemon?style=flat-square&logo=Platzi&logoColor=lemon&link=)](https://platzi.com/@zioguillo/)
 
 
