@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 #### A little more about me...
 <!--
 ```python
-const Gerardo_Quiñonez = {
+const name_lastname = {
   pronouns: "he" | "him",
   skills: ['HTML', 'CSS', 'Javascript', 'React', 'Bootstrap', 'Styled Components', 'Git', 'Scrum'],
   personals_projects: {
