@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <h2> Hi, I'm Pablo G. Cisneros! <!-- <img src="https://media.giphy.com/media/3bc9YL28QWi3pYzi1p/giphy.gif" width="50"></h2> -->
 <h4><em>⚡ Senior System Engineer ⚡</em></h4>
 
-[![GitHub Pablo G. Cisneros](https://img.shields.io/badge/Platzi-Pablo_G_Cisneros-lemon?style=flat-square&logo=Platzi&logoColor=lemon&link=)](https://platzi.com/@zioguillo/)
-[![Linkedin: Pablo G. Cisneros](https://img.shields.io/badge/Pablo_G_Cisneros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablogcisneros/)](https://www.linkedin.com/in/pablogcisneros/)
-[![Twitter: Pablo G. Cisneros](https://img.shields.io/twitter/follow/zioguillo?style=social)](https://twitter.com/zioguillo)
+[![GitHub Pablo G. Cisneros](https://img.shields.io/badge/Platzi-Pablo_Cisneros-lemon?style=flat-square&logo=Platzi&logoColor=lemon&link=)](https://platzi.com/@zioguillo/)
+[![Linkedin: Pablo G. Cisneros](https://img.shields.io/badge/Pablo_Cisneros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablogcisneros/)](https://www.linkedin.com/in/pablogcisneros/)
+[![Twitter: Pablo G. Cisneros](https://img.shields.io/twitter/follow/Pablo_Cisneros?style=social)](https://twitter.com/zioguillo)
 
 
 #### A little more about me...
