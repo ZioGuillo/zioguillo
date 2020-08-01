@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 [![Linkedin: Pablo G. Cisneros](https://img.shields.io/badge/Pablo_Cisneros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablocisneros/)](https://www.linkedin.com/in/pablocisneros/)
 [![Twitter: Pablo G. Cisneros](https://img.shields.io/twitter/follow/zioguillo?style=social)](https://twitter.com/zioguillo)
-[![Instagram: Pablo G. Cisneros](https://img.shields.io/instagram/follow/zioguillo?style=social)](https://instagram.com/zioguillo)
 [![Platzi Pablo G. Cisneros](https://img.shields.io/badge/Platzi-Pablo_Cisneros-lemon?style=flat-square&logo=Platzi&logoColor=lemon&link=)](https://platzi.com/@zioguillo/)
 
 
