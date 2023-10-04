@@ -16,24 +16,23 @@ Here are some ideas to get you started:
 
 -->
 
-<h2> Hi, I'm Pablo G. Cisneros! <!-- <img src="https://media.giphy.com/media/3bc9YL28QWi3pYzi1p/giphy.gif" width="50"></h2> -->
-<h4><em>⚡ Senior System Engineer ⚡</em></h4>
+<h2> Hi, I'm Pablo!!! <!-- <img src="https://media.giphy.com/media/3bc9YL28QWi3pYzi1p/giphy.gif" width="50"></h2> -->
+<h4><em>⚡ Senior Site Reability Engineer ⚡</em></h4>
 
 [![Linkedin: Pablo G. Cisneros](https://img.shields.io/badge/Pablo_Cisneros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablocisneros/)](https://www.linkedin.com/in/pablocisneros/)
 [![Twitter: Pablo G. Cisneros](https://img.shields.io/twitter/follow/zioguillo?style=social)](https://twitter.com/zioguillo)
-[![Platzi Pablo G. Cisneros](https://img.shields.io/badge/Platzi-Pablo_Cisneros-lemon?style=flat-square&logo=Platzi&logoColor=lemon&link=)](https://platzi.com/@zioguillo/)
 
 
 #### A little more about me...
-<!--
+
 ```python
 const name_lastname = {
   pronouns: "he" | "him",
-  skills: ['HTML', 'CSS', 'Javascript', 'React', 'Bootstrap', 'Styled Components', 'Git', 'Scrum'],
+  skills: ['Cloud Platforms: AWS, GCP, Azure', 'Programming Languages: Python, Bash', 'Infrastructure-as-Code: Terraform, Ansible', 'CI/CD', 'Containerization: Docker, Kubernetes', 'Monitoring/Logging: Prometheus, Grafana, ELK stack', 'Git', 'Scrum'],
   personals_projects: {
-                        CRUD_JS: "Create, Update, and Delete Records dynamically",
-                        Proyecto_citas: "Appointment manager at Local Storage",
-                        AppClima: "Check the weather from an API"
+                        "Scalable Microservices Deployment",
+                        "Cloud Migration and Cost Optimization",
+                        "SaaS Platform Infrastructure Enhancement"
                       },
   working_on: {
                 Rick_Morty: "Check the characters from https://rickandmortyapi.com/"
@@ -43,10 +42,12 @@ const name_lastname = {
 
 }
 ```
--->
+
 - 📫 How to reach me: ...
-	- email me
+	- Email me!!! [Email me](mailto:pabloc@ibrain.dev)
 
 #### Stats of my profile
+
 ![Pablo G. Cisneros github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zioguillo&theme=radical)
+
 ![Pablo G. Cisneros github stats](https://github-readme-stats.vercel.app/api?username=zioguillo&show_icons=true&theme=radical)
