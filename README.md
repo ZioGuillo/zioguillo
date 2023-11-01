@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 # 🚀 Pablo G. Cisneros' Tech Resume
 
-#![Pablo's Photo](insert-link-to-your-photo-here)
+#![Pablo's Photo](https://avatars.githubusercontent.com/u/4080790?v=4)
 -->
-# 🚀 Pablo's Tech Resume
+# 🚀 Pablo's Tech Resume <img src="https://avatars.githubusercontent.com/u/4080790?v=4" alt="Pablo's Photo" width="30" height="30">
 
 ![Pablo G. Cisneros github stats](https://github-readme-stats.vercel.app/api?username=zioguillo&show_icons=true&theme=radical)
 
