@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 -->
 # 🚀 Pablo's Tech Resume <img src="https://avatars.githubusercontent.com/u/4080790?v=4" alt="Pablo's Photo" width="30" height="30">
 
-![Pablo G. Cisneros github stats](https://github-readme-stats.vercel.app/api?username=zioguillo&show_icons=true&theme=radical)
-
 [![AWS Cloud Practitioner](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/084e26c6-7765-452a-a063-1e508b3d37d0/public_url)
 [![Linkedin: Pablo G. Cisneros](https://img.shields.io/badge/Pablo_Cisneros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablocisneros/)](https://www.linkedin.com/in/pablocisneros/)
 [![Twitter: Pablo G. Cisneros](https://img.shields.io/twitter/follow/zioguillo?style=social)](https://twitter.com/zioguillo)
