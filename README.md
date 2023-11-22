@@ -13,6 +13,8 @@
 [![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS_Certified_Solutions_Architect-232F3E?style=flat-square&logo=amazon-aws)](https://www.credly.com/badges/fc1d24ea-13d9-42b8-980f-66b73d23450b/public_url)
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws)](https://www.credly.com/badges/084e26c6-7765-452a-a063-1e508b3d37d0/public_url)
 
+- 📫 How to reach me: [Get in Touch with me!!!](mailto:pabloc@ibrain.dev)
+
 ```python
 class SiteReliabilityEngineer:
     def __init__(self):
@@ -77,9 +79,6 @@ working_on: {
   interests: "Get knowledge every day"
 }
 ```
-
-- 📫 How to reach me: ...
-	- [Email me!!!](mailto:pabloc@ibrain.dev)
 
 #### Stats of my profile
 
