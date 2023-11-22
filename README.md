@@ -1,4 +1,4 @@
-## 📊 More Stats
+## 📊 Stats
 
 <p align="center">
     <a href="https://github.com/ZioGuillo">
