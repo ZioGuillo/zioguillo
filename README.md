@@ -1,28 +1,18 @@
-<!--
-### Hi there 👋
+## 📊 More Stats
 
-**ZioGuillo/zioguillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href="https://github.com/ZioGuillo">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZioGuillo&theme=dark" />
+    </a>
+</p>
 
-Here are some ideas to get you started:
+# <img src="https://avatars.githubusercontent.com/u/4080790?v=4" alt="Pablo's Photo" width="30" height="30"> Pablo's Tech Resume
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-# 🚀 Pablo G. Cisneros' Tech Resume
-
-#![Pablo's Photo](https://avatars.githubusercontent.com/u/4080790?v=4)
--->
-# 🚀 Pablo's Tech Resume <img src="https://avatars.githubusercontent.com/u/4080790?v=4" alt="Pablo's Photo" width="30" height="30">
-
-[![AWS Cloud Practitioner](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/084e26c6-7765-452a-a063-1e508b3d37d0/public_url)
 [![Linkedin: Pablo G. Cisneros](https://img.shields.io/badge/Pablo_Cisneros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablocisneros/)](https://www.linkedin.com/in/pablocisneros/)
 [![Twitter: Pablo G. Cisneros](https://img.shields.io/twitter/follow/zioguillo?style=social)](https://twitter.com/zioguillo)
+[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS_Certified_Solutions_Architect-232F3E?style=flat-square&logo=amazon-aws)](https://www.credly.com/badges/fc1d24ea-13d9-42b8-980f-66b73d23450b/public_url)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws)](https://www.credly.com/badges/084e26c6-7765-452a-a063-1e508b3d37d0/public_url)
+
 ```python
 class SiteReliabilityEngineer:
     def __init__(self):
@@ -69,9 +59,21 @@ personal_projects: [
     "Led the migration of legacy applications to AWS, optimizing resource allocation and achieving a 30% cost reduction.",
     "Created an automated CI/CD pipeline, reducing deployment time by 40% and minimizing errors in the release process."
 ],
-  working_on: {
-    name: ""
-  },
+working_on: {
+  projects: [
+    {
+      name: "Streaming API App",
+      description: "Developing a streaming API app using Python, hosted on AWS EKS.",
+      link: "https://github.com/ZioGuillo/video_streaming_api_eks"
+    },
+    {
+      name: "FinAPP API",
+      description: "Building a financial application API with Python, focusing on robustness and scalability.",
+      link: "Project Private by the moment until release the final version 0.0.1"
+    }
+  ]
+}
+,
   interests: "Get knowledge every day"
 }
 ```
@@ -81,4 +83,14 @@ personal_projects: [
 
 #### Stats of my profile
 
-![Pablo G. Cisneros github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zioguillo&theme=radical)
+## 📊 My GitHub Stats
+
+<p align="center">
+    <a href="https://github.com/ZioGuillo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zioguillo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zioguillo&exclude_repo=zioguillo.github.io,zioguillo&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
+    </a>
+</p>
+
+
+
