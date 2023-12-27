@@ -17,8 +17,7 @@
 
 [![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS_Certified_Solutions_Architect-232F3E?style=flat-square&logo=amazon-aws)](https://www.credly.com/badges/fc1d24ea-13d9-42b8-980f-66b73d23450b/public_url)
 [![AWS Certified SysOps Administrator](https://img.shields.io/badge/AWS_Certified_SysOps_Administrator-232F3E?style=flat-square&logo=amazon-aws)](https://www.credly.com/badges/c40c938f-a645-41f2-8a2c-a7e4dc170baf/public_url)
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=flat-square&logo=amazon-aws)](https://www.credly.com/badges/084e26c6-7765-452a-a063-1e508b3d37d0/public_url)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform)](https://www.terraform.io/)
+[![HashiCorp Certified Terraform Associate](https://img.shields.io/badge/HashiCorp%20Certified%20Terraform-8A2BE2?style=flat-square&logo=terraform)](https://www.credly.com/badges/b8dc7080-e537-4918-941e-bd2c14ecacf2/public_url)
 
 
 - 📫 How to reach me: [Get in Touch with me!!!](mailto:pabloc@ibrain.dev)
