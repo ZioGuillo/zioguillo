@@ -2,18 +2,26 @@ name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs at 00:00 every day
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Runs at 00:00 (midnight) every day
+  workflow_dispatch: # Allows manual triggering of the workflow
 
 jobs:
-  build:
+  generate-summary-cards:
     runs-on: ubuntu-latest
-    name: generate
+    name: Generate GitHub Profile Summary Cards
 
     steps:
-      - uses: actions/checkout@v3
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Generate Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: ZioGuillo
+          BRANCH_NAME: master
+          UTC_OFFSET: 0
+          AUTO_PUSH: true
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
+
+      
