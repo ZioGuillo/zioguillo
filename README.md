@@ -92,11 +92,33 @@ working_on: {
 ## 📊 My GitHub Stats
 
 <p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/zioguillo/zioguillo/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/zioguillo/zioguillo/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/zioguillo/zioguillo/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/zioguillo/zioguillo/master/profile-summary-card-output/github_dark/3-stats.svg" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/zioguillo/zioguillo/master/profile-summary-card-output/github_dark/4-productive-time.svg" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=zioguillo&theme=ads-juicy-fresh" />
+  </a>
+</p>
+
+<p align="center">
     <a href="https://github.com/ZioGuillo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zioguillo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zioguillo&exclude_repo=zioguillo.github.io,zioguillo&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
     </a>
 </p>
+
 
 
 
