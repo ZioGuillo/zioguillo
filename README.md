@@ -6,6 +6,8 @@
     </a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zioguillo&label=Profile%20views&color=0e75b6&style=flat" alt="zioguillo" /></p>
+
 ## About Me
 ```java
     public static void aboutMe() {
