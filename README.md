@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zioguillo&label=Profile%20views&color=0e75b6&style=flat" alt="zioguillo" /></p>
 
-## About Me
+## <img src="https://0.gravatar.com/avatar/d55e81fb25733c2d8920acf3a933fb4077603122e852c734bd2208480d76871e?size=256" alt="Pablo's Photo" width="30" height="30">  About Me 
 ```python
 class AboutMe:
     def __init__(self):
@@ -23,13 +23,14 @@ class AboutMe:
         self.goal = "Leverage DevOps and Infrastructure skills to build scalable ML systems."
 
     def __str__(self):
-        return f"I'm a {self.role} transitioning towards {self.transition}.         Specializing in {', '.join(self.specialties)} with the goal to {self.goal}."
+        return f"I'm a {self.role} transitioning towards {self.transition}.
+        Specializing in {', '.join(self.specialties)} with the goal to {self.goal}."
     
 about_me = AboutMe()
 print(about_me)
 ```
 
-## <img src="https://0.gravatar.com/avatar/d55e81fb25733c2d8920acf3a933fb4077603122e852c734bd2208480d76871e?size=256" alt="Pablo's Photo" width="30" height="30"> Pablo's Tech Resume
+### Resume
 
 [![Linkedin: Pablo G. Cisneros](https://img.shields.io/badge/Pablo_Cisneros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablocisneros/)](https://www.linkedin.com/in/pablocisneros/)
 [![Twitter: Pablo G. Cisneros](https://img.shields.io/twitter/follow/zioguillo?style=social)](https://twitter.com/zioguillo)
