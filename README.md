@@ -1,146 +1,87 @@
 
-## 📊 Stats
+# Pablo Cisneros
 
-<p align="center">
-    <a href="https://github.com/ZioGuillo">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZioGuillo&theme=dark" />
-    </a>
-</p>
+![Mars themed header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2B1D1A,30:6B2D1F,65:C35A3B,100:E7A26A&text=Pablo%20Cisneros&fontColor=F7E7D3&fontSize=48&fontAlignY=38&desc=Senior%20Site%20Reliability%20Engineer%20%E2%80%A2%20MLOps%20Transition%20%E2%80%A2%20Cloud%20Automation&descAlignY=58)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zioguillo&label=Profile%20views&color=0e75b6&style=flat" alt="zioguillo" /></p>
+## Engineering reliable systems with a Mars-inspired profile
 
-## <img src="https://0.gravatar.com/avatar/d55e81fb25733c2d8920acf3a933fb4077603122e852c734bd2208480d76871e?size=256" alt="Pablo's Photo" width="30" height="30">  About Me 
-```python
-class AboutMe:
-    def __init__(self):
-        self.role = "Senior Site Reliability Engineer"
-        self.transition = "MLOps"
-        self.specialties = [
-            "System Monitoring", 
-            "Disaster Recovery", 
-            "Automation"
-        ]
-        self.goal = "Leverage DevOps and Infrastructure skills to build scalable ML systems."
+[![Profile Views](https://komarev.com/ghpvc/?username=zioguillo&label=Profile%20Views&color=C35A3B&style=for-the-badge)](https://github.com/ZioGuillo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Cisneros-8E3B2E?style=for-the-badge&logo=linkedin&logoColor=F7E7D3)](https://www.linkedin.com/in/pablocisneros/)
+[![X](https://img.shields.io/badge/X-@zioguillo-4A2A24?style=for-the-badge&logo=x&logoColor=F7E7D3)](https://twitter.com/zioguillo)
+[![Docker Hub](https://img.shields.io/badge/Docker-Hub-BE6A46?style=for-the-badge&logo=docker&logoColor=F7E7D3)](https://hub.docker.com/repositories/pcisnerp)
+[![Email](https://img.shields.io/badge/Email-pabloc@ibrain.dev-6B2D1F?style=for-the-badge&logo=gmail&logoColor=F7E7D3)](mailto:pabloc@ibrain.dev)
 
-    def __str__(self):
-        return f"I'm a {self.role} transitioning towards {self.transition}.
-        Specializing in {', '.join(self.specialties)} with the goal to {self.goal}."
-    
-about_me = AboutMe()
-print(about_me)
-```
+## Mission Profile
 
-### Resume
+I am a Senior Site Reliability Engineer moving deeper into MLOps, with a focus on resilient infrastructure, automation, observability, and cloud-native operations. This profile uses a Mars palette instead of a moon palette because it gives stronger contrast, reads better on GitHub, and still keeps the space aesthetic without feeling washed out.
 
-[![Linkedin: Pablo G. Cisneros](https://img.shields.io/badge/Pablo_Cisneros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pablocisneros/)](https://www.linkedin.com/in/pablocisneros/)
-[![Twitter: Pablo G. Cisneros](https://img.shields.io/twitter/follow/zioguillo?style=social)](https://twitter.com/zioguillo)
-[![Docker Dashboard](https://img.shields.io/badge/Docker_Dashboard-2496ED?style=flat-square&logo=docker)](https://hub.docker.com/repositories/pcisnerp)
+![SRE](https://img.shields.io/badge/Site%20Reliability%20Engineering-9C412D?style=flat-square&logo=googlecloud&logoColor=F7E7D3)
+![MLOps](https://img.shields.io/badge/MLOps-C35A3B?style=flat-square&logo=mlflow&logoColor=F7E7D3)
+![Automation](https://img.shields.io/badge/Automation-D77D52?style=flat-square&logo=ansible&logoColor=2B1D1A)
+![Observability](https://img.shields.io/badge/Observability-8E3B2E?style=flat-square&logo=grafana&logoColor=F7E7D3)
+![Disaster Recovery](https://img.shields.io/badge/Disaster%20Recovery-5C2A22?style=flat-square&logo=terraform&logoColor=F7E7D3)
 
-```python
-class PabloCisneros:
-    def __init__(self):
-        self.social_links = {
-            "LinkedIn": "https://www.linkedin.com/in/pablocisneros/",
-            "GitHub": "https://github.com/ZioGuillo",
-            "Docker Hub": "https://hub.docker.com/repositories/pcisnerp"
-        }
-        self.certifications = [
-            "AWS Certified Solutions Architect",
-            "AWS Certified SysOps Administrator",
-            "HashiCorp Certified Terraform Associate",
-            "GitHub Foundations Certified",
-            "Intel® Certified Developer - MLOps Professional"
-        ]
+## Work Experience Snapshot
 
-pablo = PabloCisneros()
-print(pablo.social_links)
-print(pablo.certifications)
-```
+| Area | What I bring |
+| --- | --- |
+| Current role | Senior Site Reliability Engineer |
+| Growth track | Transitioning into MLOps and production ML platforms |
+| Core strengths | System monitoring, disaster recovery, automation, platform reliability |
+| Cloud background | AWS, Azure, Google Cloud |
+| Delivery style | Infrastructure as code, measurable operations, scalable systems |
+| Long-term focus | Build ML systems that are observable, reproducible, and reliable in production |
 
-### Certifications
+## Impact Areas
 
-[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS_Certified_Solutions_Architect-232F3E?style=flat-square&logo=amazon-aws)](https://www.credly.com/badges/fc1d24ea-13d9-42b8-980f-66b73d23450b/public_url)
-[![AWS Certified SysOps Administrator](https://img.shields.io/badge/AWS_Certified_SysOps_Administrator-232F3E?style=flat-square&logo=amazon-aws)](https://www.credly.com/badges/c40c938f-a645-41f2-8a2c-a7e4dc170baf/public_url)
+- Built and improved observability platforms using Prometheus, Grafana, and modern telemetry practices.
+- Automated infrastructure and recovery workflows to reduce operational risk and increase repeatability.
+- Improved system throughput and platform scalability through performance tuning and orchestration work.
+- Led cloud-native reliability efforts with Kubernetes, Terraform, CI/CD pipelines, and GitHub Actions.
+- Applied DevOps discipline to create the foundation for scalable MLOps workflows.
 
-[![HashiCorp Certified Terraform Associate](https://img.shields.io/badge/HashiCorp%20Certified%20Terraform-8A2BE2?style=flat-square&logo=terraform)](https://www.credly.com/badges/b8dc7080-e537-4918-941e-bd2c14ecacf2/public_url)
-[![GitHub Foundations Certificated](https://img.shields.io/badge/Github%20Foundations%20Certificated-8A2BE2?style=flat-square&logo=github)](https://www.credly.com/badges/658b26c9-74a0-4da7-a119-6bead783867c/public_url)
+## Certifications
 
-[![Intel® Certified Developer - MLOps Professional](https://img.shields.io/badge/Intel%C2%AE%20Certified%20Developer%20-%20MLOps%20Professional-8A2BE2?style=flat-square&logo=intel)](https://www.credly.com/badges/219b1131-0742-4e73-ab90-f5772933b237/public_url)
+[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Solutions%20Architect-2B1D1A?style=for-the-badge&logo=amazonaws&logoColor=FFB86B)](https://www.credly.com/badges/fc1d24ea-13d9-42b8-980f-66b73d23450b/public_url)
+[![AWS Certified SysOps Administrator](https://img.shields.io/badge/AWS%20SysOps%20Administrator-4A2A24?style=for-the-badge&logo=amazonaws&logoColor=FFB86B)](https://www.credly.com/badges/c40c938f-a645-41f2-8a2c-a7e4dc170baf/public_url)
+[![Terraform Associate](https://img.shields.io/badge/Terraform%20Associate-6B2D1F?style=for-the-badge&logo=terraform&logoColor=F7E7D3)](https://www.credly.com/badges/b8dc7080-e537-4918-941e-bd2c14ecacf2/public_url)
+[![GitHub Foundations](https://img.shields.io/badge/GitHub%20Foundations-8E3B2E?style=for-the-badge&logo=github&logoColor=F7E7D3)](https://www.credly.com/badges/658b26c9-74a0-4da7-a119-6bead783867c/public_url)
+[![Intel MLOps Professional](https://img.shields.io/badge/Intel%20MLOps%20Professional-C35A3B?style=for-the-badge&logo=intel&logoColor=F7E7D3)](https://www.credly.com/badges/219b1131-0742-4e73-ab90-f5772933b237/public_url)
 
-### Tech Stack & Tools
+## Stack and Tools
 
-```python
-class TechStack:
-    def __init__(self):
-        self.languages_frameworks = ["Python", "Docker", "Kubernetes"]
-        self.cloud_providers = ["AWS", "Azure", "Google Cloud"]
-        self.tools = ["Prometheus", "Grafana", "Terraform", "Jenkins", "GitHub Actions"]
+[![My Skills](https://skillicons.dev/icons?i=python,docker,kubernetes,terraform,aws,azure,gcp,githubactions,jenkins,prometheus,grafana,linux)](https://skillicons.dev)
 
-    def __str__(self):
-        return f"Languages & Frameworks: {', '.join(self.languages_frameworks)}
-        Cloud Providers: {', '.join(self.cloud_providers)}
-        Tools: {', '.join(self.tools)}"
-    
-stack = TechStack()
-print(stack)
-```
+![Python](https://img.shields.io/badge/Python-2B1D1A?style=flat-square&logo=python&logoColor=FFD27D)
+![Docker](https://img.shields.io/badge/Docker-6B2D1F?style=flat-square&logo=docker&logoColor=F7E7D3)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-9C412D?style=flat-square&logo=kubernetes&logoColor=F7E7D3)
+![Terraform](https://img.shields.io/badge/Terraform-B65A3C?style=flat-square&logo=terraform&logoColor=F7E7D3)
+![Prometheus](https://img.shields.io/badge/Prometheus-C35A3B?style=flat-square&logo=prometheus&logoColor=F7E7D3)
+![Grafana](https://img.shields.io/badge/Grafana-D77D52?style=flat-square&logo=grafana&logoColor=2B1D1A)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-8E3B2E?style=flat-square&logo=githubactions&logoColor=F7E7D3)
+![Jenkins](https://img.shields.io/badge/Jenkins-4A2A24?style=flat-square&logo=jenkins&logoColor=F7E7D3)
 
-[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus)](https://prometheus.io/)
-[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana)](https://grafana.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform)](https://www.terraform.io/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)](https://github.com/features/actions)
+## GitHub Orbit
 
-<img align="center" alt="CI/CD" width="400" src="https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif">
+| Stats | Languages |
+| --- | --- |
+| ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZioGuillo&theme=github_dark) | ![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZioGuillo&theme=github_dark) |
 
-### Projects
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com?user=ZioGuillo&hide_border=true&background=0D1117&ring=C35A3B&fire=E7A26A&currStreakLabel=F7E7D3&sideNums=F7E7D3&currStreakNum=E7A26A&dates=B98B72&sideLabels=F7E7D3)
 
-```python
-class ProjectsAndAchievements:
-    def mlops_pipeline_optimization(self):
-        return "Enhanced MLOps pipeline with CI/CD, real-time data validation, and model versioning."
+![GitHub contribution heatmap](https://ghchart.rshah.org/C35A3B/ZioGuillo)
 
-    def observability_platform_overhaul(self):
-        return "Developed an observability platform using Prometheus, Grafana, and ELK stack."
+![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZioGuillo&bg_color=0D1117&color=F7E7D3&line=C35A3B&point=E7A26A&area=true&hide_border=true)
 
-    def cloud_native_monitoring(self):
-        return "Engineered a microservices monitoring solution, improving system visibility."
+## Current Focus
 
-    def cloud_disaster_recovery(self):
-        return "Automated disaster recovery framework for fast, compliant recovery."
+- Designing dependable infrastructure that supports modern ML workloads.
+- Turning SRE discipline into production-grade MLOps practices.
+- Building systems that are observable by default and recoverable under pressure.
 
-    def performance_optimization(self):
-        return "Increased throughput by 25% through system performance optimization."
+## Connect
 
-    def terraform_infrastructure_modernization(self):
-        return "Spearheaded infrastructure modernization with Terraform."
+If you are working on cloud infrastructure, platform engineering, observability, or MLOps, feel free to reach out.
 
-    def kubernetes_orchestration_scalability(self):
-        return "Led Kubernetes orchestration and scalability efforts."
-
-    def security_and_compliance(self):
-        return "Directed security compliance for critical infrastructure."
-
-projects = ProjectsAndAchievements()
-print(projects.mlops_pipeline_optimization())
-print(projects.observability_platform_overhaul())
-print(projects.cloud_native_monitoring())
-print(projects.terraform_infrastructure_modernization())
-```
-
-### Contact
-
-- 📫 How to reach me: [Get in Touch with me!!!](mailto:pabloc@ibrain.dev)
-
-```python
-class Contact:
-    def __init__(self, email):
-        self.email = email
-
-    def reach_out(self):
-        return f"Feel free to reach out at {self.email} to discuss tech, MLOps, or collaborations."
-
-contact = Contact("pabloc@ibrain.dev")
-print(contact.reach_out())
-```
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-8E3B2E?style=for-the-badge&logo=linkedin&logoColor=F7E7D3)](https://www.linkedin.com/in/pablocisneros/)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-C35A3B?style=for-the-badge&logo=gmail&logoColor=F7E7D3)](mailto:pabloc@ibrain.dev)
