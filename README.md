@@ -21,11 +21,15 @@
 
 </div>
 
-## Mission Profile
+<div align="center">
+  <h2>Mission Profile</h2>
+</div>
 
 I am a Senior Site Reliability Engineer with hands-on experience in platform reliability, observability, disaster recovery, cloud operations, and infrastructure automation. My current trajectory is focused on applying that production engineering background to MLOps platforms, where reliability, telemetry, repeatability, and operational discipline matter as much as model performance.
 
-## Mission Control
+<div align="center">
+  <h2>Mission Control</h2>
+</div>
 
 <div align="center">
 
@@ -43,7 +47,9 @@ I am a Senior Site Reliability Engineer with hands-on experience in platform rel
 
 </div>
 
-## Work Experience Snapshot
+<div align="center">
+  <h2>Work Experience Snapshot</h2>
+</div>
 
 | Area | What I bring |
 | --- | --- |
@@ -54,7 +60,9 @@ I am a Senior Site Reliability Engineer with hands-on experience in platform rel
 | Delivery style | Infrastructure as code, measurable operations, scalable systems |
 | Long-term focus | Build ML systems that are observable, reproducible, and reliable in production |
 
-## Impact Areas
+<div align="center">
+  <h2>Impact Areas</h2>
+</div>
 
 - Built and improved observability platforms using Prometheus, Grafana, and modern telemetry practices.
 - Automated infrastructure and recovery workflows to reduce operational risk and increase repeatability.
@@ -62,7 +70,9 @@ I am a Senior Site Reliability Engineer with hands-on experience in platform rel
 - Led cloud-native reliability efforts with Kubernetes, Terraform, CI/CD pipelines, and GitHub Actions.
 - Applied DevOps discipline to create the foundation for scalable MLOps workflows.
 
-## Certifications
+<div align="center">
+  <h2>Certifications</h2>
+</div>
 
 <div align="center">
 
@@ -76,7 +86,9 @@ I am a Senior Site Reliability Engineer with hands-on experience in platform rel
 
 </div>
 
-## Stack and Tools
+<div align="center">
+  <h2>Stack and Tools</h2>
+</div>
 
 <div align="center">
 
@@ -88,7 +100,9 @@ I am a Senior Site Reliability Engineer with hands-on experience in platform rel
 
 </div>
 
-## GitHub Orbit
+<div align="center">
+  <h2>GitHub Orbit</h2>
+</div>
 
 <div align="center">
 
@@ -104,13 +118,23 @@ I am a Senior Site Reliability Engineer with hands-on experience in platform rel
 
 </div>
 
-## Current Focus
+<div align="center">
+  <h2>Current Focus</h2>
+</div>
 
-- Designing dependable infrastructure that supports modern ML workloads.
-- Turning SRE discipline into production-grade MLOps practices.
-- Building systems that are observable by default and recoverable under pressure.
+<div align="center">
 
-## Connect
+| Focus Vector |
+| :---: |
+| Designing dependable infrastructure that supports modern ML workloads. |
+| Turning SRE discipline into production-grade MLOps practices. |
+| Building systems that are observable by default and recoverable under pressure. |
+
+</div>
+
+<div align="center">
+  <h2>Connect</h2>
+</div>
 
 If you are building cloud infrastructure, platform engineering, observability, or MLOps systems, I am open to connecting and collaborating.
 
