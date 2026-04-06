@@ -7,7 +7,7 @@
 
 ![Mars themed header](https://capsule-render.vercel.app/api?type=rect&height=220&color=0:2B1D1A,30:6B2D1F,65:C35A3B,100:E7A26A&text=Mission-Critical%20Platform%20Engineering&fontColor=F7E7D3&fontSize=38&fontAlignY=42&desc=Reliability%20%E2%80%A2%20Observability%20%E2%80%A2%20MLOps&descAlignY=63&animation=fadeIn)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&pause=1800&color=E7A26A&center=true&vCenter=true&width=900&lines=Earth+to+Mars+Launch+Sequence;Reliable+systems+for+critical+missions;SRE+discipline+for+MLOps+platforms)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&pause=2200&color=E7A26A&center=true&vCenter=true&width=540&height=40&lines=Reliable+systems+for+cloud+and+MLOps)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Cisneros-8E3B2E?style=flat-square&logo=linkedin&logoColor=F7E7D3)](https://www.linkedin.com/in/pablogcisneros/)
 [![Email](https://img.shields.io/badge/Email-pabloc@ibrain.dev-6B2D1F?style=flat-square&logo=gmail&logoColor=F7E7D3)](mailto:pabloc@ibrain.dev)
