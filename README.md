@@ -1,7 +1,7 @@
 
 <!-- markdownlint-disable MD033 -->
 
-# Reliability Engineer • MLOps Transition • Cloud Automation
+# Platform Reliability • Observability • MLOps
 
 <div align="center">
 
@@ -9,15 +9,13 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&pause=1800&color=E7A26A&center=true&vCenter=true&width=900&lines=Earth+to+Mars+Launch+Sequence;Reliable+systems+for+critical+missions;SRE+discipline+for+MLOps+platforms)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=zioguillo&label=Profile%20Views&color=C35A3B&style=for-the-badge)](https://github.com/ZioGuillo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Cisneros-8E3B2E?style=flat-square&logo=linkedin&logoColor=F7E7D3)](https://www.linkedin.com/in/pablogcisneros/)
+[![Email](https://img.shields.io/badge/Email-pabloc@ibrain.dev-6B2D1F?style=flat-square&logo=gmail&logoColor=F7E7D3)](mailto:pabloc@ibrain.dev)
+[![Docker Hub](https://img.shields.io/badge/Docker-Hub-BE6A46?style=flat-square&logo=docker&logoColor=F7E7D3)](https://hub.docker.com/repositories/pcisnerp)
 
-</div>
-
-<div align="center">
-
-| Connect | Focus |
-| :---: | :---: |
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Cisneros-8E3B2E?style=for-the-badge&logo=linkedin&logoColor=F7E7D3)](https://www.linkedin.com/in/pablogcisneros/) [![X](https://img.shields.io/badge/X-@zioguillo-4A2A24?style=for-the-badge&logo=x&logoColor=F7E7D3)](https://twitter.com/zioguillo) [![Email](https://img.shields.io/badge/Email-pabloc@ibrain.dev-6B2D1F?style=for-the-badge&logo=gmail&logoColor=F7E7D3)](mailto:pabloc@ibrain.dev) | [![Docker Hub](https://img.shields.io/badge/Docker-Hub-BE6A46?style=for-the-badge&logo=docker&logoColor=F7E7D3)](https://hub.docker.com/repositories/pcisnerp) [![MLOps](https://img.shields.io/badge/Focus-MLOps-9C412D?style=for-the-badge&logo=mlflow&logoColor=F7E7D3)](https://github.com/ZioGuillo) |
+[![Focus](https://img.shields.io/badge/Focus-MLOps-9C412D?style=flat-square&logo=mlflow&logoColor=F7E7D3)](https://github.com/ZioGuillo)
+[![Telemetry](https://img.shields.io/badge/Telemetry-Observability-8E3B2E?style=flat-square&logo=grafana&logoColor=F7E7D3)](https://github.com/ZioGuillo)
+[![Profile Views](https://img.shields.io/badge/Profile%20Views-zioguillo-C35A3B?style=flat-square&logo=github&logoColor=F7E7D3)](https://github.com/ZioGuillo)
 
 </div>
 
@@ -25,7 +23,11 @@
   <h2>Mission Profile</h2>
 </div>
 
+<div align="center">
+
 I am a Senior Site Reliability Engineer with hands-on experience in platform reliability, observability, disaster recovery, cloud operations, and infrastructure automation. My current trajectory is focused on applying that production engineering background to MLOps platforms, where reliability, telemetry, repeatability, and operational discipline matter as much as model performance.
+
+</div>
 
 <div align="center">
   <h2>Mission Control</h2>
@@ -136,7 +138,11 @@ I am a Senior Site Reliability Engineer with hands-on experience in platform rel
   <h2>Connect</h2>
 </div>
 
+<div align="center">
+
 If you are building cloud infrastructure, platform engineering, observability, or MLOps systems, I am open to connecting and collaborating.
+
+</div>
 
 <div align="center">
 
