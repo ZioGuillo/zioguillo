@@ -3,7 +3,7 @@
 
 ![Mars themed header](https://capsule-render.vercel.app/api?type=rect&height=220&color=0:2B1D1A,30:6B2D1F,65:C35A3B,100:E7A26A&text=Pablo%20Cisneros&fontColor=F7E7D3&fontSize=46&fontAlignY=42&desc=Senior%20Site%20Reliability%20Engineer&descAlignY=63&animation=fadeIn)
 
-## Minimal, space-inspired profile design
+![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&pause=1800&color=E7A26A&center=true&vCenter=true&width=900&lines=Earth+to+Moon+Launch+Sequence;Reliable+systems+for+critical+missions;SRE+discipline+for+MLOps+platforms)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=zioguillo&label=Profile%20Views&color=C35A3B&style=for-the-badge)](https://github.com/ZioGuillo)
 
@@ -14,6 +14,16 @@
 ## Mission Profile
 
 I am a Senior Site Reliability Engineer moving deeper into MLOps, with a focus on resilient infrastructure, automation, observability, and cloud-native operations. The visual direction keeps the Mars palette, but the layout is intentionally cleaner and more restrained so it feels closer to an Apple-style presentation: minimal, structured, and calm.
+
+## Mission Control
+
+| Launch Path |
+| :---: |
+| 🌍 Earth ── Launch ── Orbit ── Transfer ── Approach ── 🌕 Moon |
+
+| Flight Deck | Objective |
+| :---: | :---: |
+| ![Launch Window](https://img.shields.io/badge/Launch%20Window-Open-C35A3B?style=for-the-badge&logo=spacex&logoColor=F7E7D3) [![Navigation](https://img.shields.io/badge/Navigation-Stable-8E3B2E?style=for-the-badge&logo=apollo-graphql&logoColor=F7E7D3)](https://github.com/ZioGuillo) [![Telemetry](https://img.shields.io/badge/Telemetry-Live-6B2D1F?style=for-the-badge&logo=datadog&logoColor=F7E7D3)](https://github.com/ZioGuillo) | Build reliable systems that can move from idea to production with the same confidence as a launch checklist. |
 
 | Core Areas |
 | :---: |
