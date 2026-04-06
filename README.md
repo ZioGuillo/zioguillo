@@ -1,7 +1,9 @@
 
 # Reliability Engineer • MLOps Transition • Cloud Automation
 
-![Mars themed header](https://capsule-render.vercel.app/api?type=rect&height=220&color=0:2B1D1A,30:6B2D1F,65:C35A3B,100:E7A26A&text=Pablo%20Cisneros&fontColor=F7E7D3&fontSize=46&fontAlignY=42&desc=Senior%20Site%20Reliability%20Engineer&descAlignY=63&animation=fadeIn)
+![Mars themed header](https://capsule-render.vercel.app/api?type=rect&height=220&color=0:2B1D1A,30:6B2D1F,65:C35A3B,100:E7A26A&text=Mission-Critical%20Platform%20Engineering&fontColor=F7E7D3&fontSize=38&fontAlignY=42&desc=Reliability%20%E2%80%A2%20Observability%20%E2%80%A2%20MLOps&descAlignY=63&animation=fadeIn)
+
+![Mars surface image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg/960px-Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&pause=1800&color=E7A26A&center=true&vCenter=true&width=900&lines=Earth+to+Mars+Launch+Sequence;Reliable+systems+for+critical+missions;SRE+discipline+for+MLOps+platforms)
 
