@@ -86,6 +86,8 @@ I am a Senior Site Reliability Engineer with hands-on experience in platform rel
 
 ## Connect
 
-If you are working on cloud infrastructure, platform engineering, observability, or MLOps, feel free to reach out.
+If you are building cloud infrastructure, platform engineering, observability, or MLOps systems, I am open to connecting and collaborating.
 
-[LinkedIn](https://www.linkedin.com/in/pablogcisneros/) • [Email](mailto:pabloc@ibrain.dev) • [Docker Hub](https://hub.docker.com/repositories/pcisnerp)
+| Reach Out | Reach Out | Reach Out |
+| :---: | :---: | :---: |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Cisneros-8E3B2E?style=for-the-badge&logo=linkedin&logoColor=F7E7D3)](https://www.linkedin.com/in/pablogcisneros/) | [![Email](https://img.shields.io/badge/Email-pabloc@ibrain.dev-C35A3B?style=for-the-badge&logo=gmail&logoColor=F7E7D3)](mailto:pabloc@ibrain.dev) | [![Docker Hub](https://img.shields.io/badge/Docker-Hub-6B2D1F?style=for-the-badge&logo=docker&logoColor=F7E7D3)](https://hub.docker.com/repositories/pcisnerp) |
