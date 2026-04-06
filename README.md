@@ -3,7 +3,7 @@
 
 ![Mars themed header](https://capsule-render.vercel.app/api?type=rect&height=220&color=0:2B1D1A,30:6B2D1F,65:C35A3B,100:E7A26A&text=Pablo%20Cisneros&fontColor=F7E7D3&fontSize=46&fontAlignY=42&desc=Senior%20Site%20Reliability%20Engineer&descAlignY=63&animation=fadeIn)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&pause=1800&color=E7A26A&center=true&vCenter=true&width=900&lines=Earth+to+Moon+Launch+Sequence;Reliable+systems+for+critical+missions;SRE+discipline+for+MLOps+platforms)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&pause=1800&color=E7A26A&center=true&vCenter=true&width=900&lines=Earth+to+Mars+Launch+Sequence;Reliable+systems+for+critical+missions;SRE+discipline+for+MLOps+platforms)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=zioguillo&label=Profile%20Views&color=C35A3B&style=for-the-badge)](https://github.com/ZioGuillo)
 
@@ -13,13 +13,13 @@
 
 ## Mission Profile
 
-I am a Senior Site Reliability Engineer moving deeper into MLOps, with a focus on resilient infrastructure, automation, observability, and cloud-native operations. The visual direction keeps the Mars palette, but the layout is intentionally cleaner and more restrained so it feels closer to an Apple-style presentation: minimal, structured, and calm.
+I am a Senior Site Reliability Engineer with hands-on experience in platform reliability, observability, disaster recovery, cloud operations, and infrastructure automation. My current trajectory is focused on applying that production engineering background to MLOps platforms, where reliability, telemetry, repeatability, and operational discipline matter as much as model performance.
 
 ## Mission Control
 
 | Launch Path |
 | :---: |
-| 🌍 Earth ── Launch ── Orbit ── Transfer ── Approach ── 🌕 Moon |
+| 🌍 Earth ── Launch ── Orbit ── Transfer ── Approach ── 🔴 Mars |
 
 | Flight Deck | Objective |
 | :---: | :---: |
@@ -49,6 +49,8 @@ I am a Senior Site Reliability Engineer moving deeper into MLOps, with a focus o
 - Applied DevOps discipline to create the foundation for scalable MLOps workflows.
 
 ## Certifications
+
+![Certification Deck](https://capsule-render.vercel.app/api?type=rect&height=140&color=0:050816,35:111A2B,65:3B2A4A,100:7A3B2E&text=Certification%20Payload&fontColor=F7E7D3&fontSize=34&fontAlignY=40&desc=AWS%20%E2%80%A2%20Terraform%20%E2%80%A2%20GitHub%20%E2%80%A2%20Intel%20MLOps&descAlignY=65&animation=fadeIn)
 
 [![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Solutions%20Architect-2B1D1A?style=for-the-badge&logo=amazonaws&logoColor=FFB86B)](https://www.credly.com/badges/fc1d24ea-13d9-42b8-980f-66b73d23450b/public_url)
 [![AWS Certified SysOps Administrator](https://img.shields.io/badge/AWS%20SysOps%20Administrator-4A2A24?style=for-the-badge&logo=amazonaws&logoColor=FFB86B)](https://www.credly.com/badges/c40c938f-a645-41f2-8a2c-a7e4dc170baf/public_url)
