@@ -1,24 +1,23 @@
 
-# Pablo Cisneros
+# Reliability Engineer • MLOps Transition • Cloud Automation
 
-![Mars themed header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2B1D1A,30:6B2D1F,65:C35A3B,100:E7A26A&text=Pablo%20Cisneros&fontColor=F7E7D3&fontSize=48&fontAlignY=38&desc=Senior%20Site%20Reliability%20Engineer%20%E2%80%A2%20MLOps%20Transition%20%E2%80%A2%20Cloud%20Automation&descAlignY=58)
+![Mars themed header](https://capsule-render.vercel.app/api?type=rect&height=220&color=0:2B1D1A,30:6B2D1F,65:C35A3B,100:E7A26A&text=Pablo%20Cisneros&fontColor=F7E7D3&fontSize=46&fontAlignY=42&desc=Senior%20Site%20Reliability%20Engineer&descAlignY=63&animation=fadeIn)
 
-## Engineering reliable systems with a Mars-inspired profile
+## Minimal, space-inspired profile design
 
 [![Profile Views](https://komarev.com/ghpvc/?username=zioguillo&label=Profile%20Views&color=C35A3B&style=for-the-badge)](https://github.com/ZioGuillo)
 
-| Connect | Connect | Connect |
-| :---: | :---: | :---: |
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Cisneros-8E3B2E?style=for-the-badge&logo=linkedin&logoColor=F7E7D3)](https://www.linkedin.com/in/pablogcisneros/) | [![X](https://img.shields.io/badge/X-@zioguillo-4A2A24?style=for-the-badge&logo=x&logoColor=F7E7D3)](https://twitter.com/zioguillo) | [![Docker Hub](https://img.shields.io/badge/Docker-Hub-BE6A46?style=for-the-badge&logo=docker&logoColor=F7E7D3)](https://hub.docker.com/repositories/pcisnerp) |
-| [![Email](https://img.shields.io/badge/Email-pabloc@ibrain.dev-6B2D1F?style=for-the-badge&logo=gmail&logoColor=F7E7D3)](mailto:pabloc@ibrain.dev) | [![Profile Views](https://komarev.com/ghpvc/?username=zioguillo&label=Profile%20Views&color=C35A3B&style=for-the-badge)](https://github.com/ZioGuillo) | [![MLOps](https://img.shields.io/badge/Focus-MLOps-9C412D?style=for-the-badge&logo=mlflow&logoColor=F7E7D3)](https://github.com/ZioGuillo) |
+| Connect | Focus |
+| :---: | :---: |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pablo%20Cisneros-8E3B2E?style=for-the-badge&logo=linkedin&logoColor=F7E7D3)](https://www.linkedin.com/in/pablogcisneros/) [![X](https://img.shields.io/badge/X-@zioguillo-4A2A24?style=for-the-badge&logo=x&logoColor=F7E7D3)](https://twitter.com/zioguillo) [![Email](https://img.shields.io/badge/Email-pabloc@ibrain.dev-6B2D1F?style=for-the-badge&logo=gmail&logoColor=F7E7D3)](mailto:pabloc@ibrain.dev) | [![Docker Hub](https://img.shields.io/badge/Docker-Hub-BE6A46?style=for-the-badge&logo=docker&logoColor=F7E7D3)](https://hub.docker.com/repositories/pcisnerp) [![MLOps](https://img.shields.io/badge/Focus-MLOps-9C412D?style=for-the-badge&logo=mlflow&logoColor=F7E7D3)](https://github.com/ZioGuillo) |
 
 ## Mission Profile
 
-I am a Senior Site Reliability Engineer moving deeper into MLOps, with a focus on resilient infrastructure, automation, observability, and cloud-native operations. This profile uses a Mars palette instead of a moon palette because it gives stronger contrast, reads better on GitHub, and still keeps the space aesthetic without feeling washed out.
+I am a Senior Site Reliability Engineer moving deeper into MLOps, with a focus on resilient infrastructure, automation, observability, and cloud-native operations. The visual direction keeps the Mars palette, but the layout is intentionally cleaner and more restrained so it feels closer to an Apple-style presentation: minimal, structured, and calm.
 
-| Domain | Domain | Domain | Domain | Domain |
-| :---: | :---: | :---: | :---: | :---: |
-| ![SRE](https://img.shields.io/badge/Site%20Reliability%20Engineering-9C412D?style=flat-square&logo=googlecloud&logoColor=F7E7D3) | ![MLOps](https://img.shields.io/badge/MLOps-C35A3B?style=flat-square&logo=mlflow&logoColor=F7E7D3) | ![Automation](https://img.shields.io/badge/Automation-D77D52?style=flat-square&logo=ansible&logoColor=2B1D1A) | ![Observability](https://img.shields.io/badge/Observability-8E3B2E?style=flat-square&logo=grafana&logoColor=F7E7D3) | ![Disaster Recovery](https://img.shields.io/badge/Disaster%20Recovery-5C2A22?style=flat-square&logo=terraform&logoColor=F7E7D3) |
+| Core Areas |
+| :---: |
+| ![SRE](https://img.shields.io/badge/Site%20Reliability%20Engineering-9C412D?style=flat-square&logo=googlecloud&logoColor=F7E7D3) ![MLOps](https://img.shields.io/badge/MLOps-C35A3B?style=flat-square&logo=mlflow&logoColor=F7E7D3) ![Automation](https://img.shields.io/badge/Automation-D77D52?style=flat-square&logo=ansible&logoColor=2B1D1A) ![Observability](https://img.shields.io/badge/Observability-8E3B2E?style=flat-square&logo=grafana&logoColor=F7E7D3) ![Disaster Recovery](https://img.shields.io/badge/Disaster%20Recovery-5C2A22?style=flat-square&logo=terraform&logoColor=F7E7D3) |
 
 ## Work Experience Snapshot
 
@@ -51,7 +50,7 @@ I am a Senior Site Reliability Engineer moving deeper into MLOps, with a focus o
 
 [![My Skills](https://skillicons.dev/icons?i=python,docker,kubernetes,terraform,aws,azure,gcp,githubactions,jenkins,prometheus,grafana,linux)](https://skillicons.dev)
 
-| Cloud and Platform | Observability and Delivery |
+| Platform | Delivery |
 | :---: | :---: |
 | ![Python](https://img.shields.io/badge/Python-2B1D1A?style=flat-square&logo=python&logoColor=FFD27D) ![Docker](https://img.shields.io/badge/Docker-6B2D1F?style=flat-square&logo=docker&logoColor=F7E7D3) ![Kubernetes](https://img.shields.io/badge/Kubernetes-9C412D?style=flat-square&logo=kubernetes&logoColor=F7E7D3) ![Terraform](https://img.shields.io/badge/Terraform-B65A3C?style=flat-square&logo=terraform&logoColor=F7E7D3) | ![Prometheus](https://img.shields.io/badge/Prometheus-C35A3B?style=flat-square&logo=prometheus&logoColor=F7E7D3) ![Grafana](https://img.shields.io/badge/Grafana-D77D52?style=flat-square&logo=grafana&logoColor=2B1D1A) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-8E3B2E?style=flat-square&logo=githubactions&logoColor=F7E7D3) ![Jenkins](https://img.shields.io/badge/Jenkins-4A2A24?style=flat-square&logo=jenkins&logoColor=F7E7D3) |
 
@@ -77,5 +76,4 @@ I am a Senior Site Reliability Engineer moving deeper into MLOps, with a focus o
 
 If you are working on cloud infrastructure, platform engineering, observability, or MLOps, feel free to reach out.
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-8E3B2E?style=for-the-badge&logo=linkedin&logoColor=F7E7D3)](https://www.linkedin.com/in/pablogcisneros/)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-C35A3B?style=for-the-badge&logo=gmail&logoColor=F7E7D3)](mailto:pabloc@ibrain.dev)
+[LinkedIn](https://www.linkedin.com/in/pablogcisneros/) • [Email](mailto:pabloc@ibrain.dev) • [Docker Hub](https://hub.docker.com/repositories/pcisnerp)
